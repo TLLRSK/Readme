@@ -1,30 +1,31 @@
-# Pedro J. Gil
+Pedro J. Gil
 
 Website: https://pedrojgil.com
 Github: https://github.com/TLLRSK
 
-# 🔨 PROJECTS 🔨
 
-# PJGV Portfolio
+🔨 PROJECTS 🔨
+
+PJGV Portfolio
 Live - https://pedrojgil.com/
 Repo: https://github.com/TLLRSK/portfolio
 
-# Blanca Amorós
+Blanca Amorós
 Live - https://pedrojgil.com/
 Repo: https://github.com/TLLRSK/portfolio
 
-# Pokedex
+Pokedex
 Live: https://github.com/TLLRSK/Pokedex-Js-Tsc
 Repo: https://pokedex-pjgil.netlify.app
 
-# Robberta's
+Robberta's
 Live: https://pedrojgil.com/robbertas
 Repo: https://github.com/TLLRSK/Robbertas
 
-# QuoteApp
+QuoteApp
 Live: https://github.com/TLLRSK/QuoteApp
 Repo: https://quoteapp-pjgv.netlify.app
 
-# AboutMe
+AboutMe
 Live: https://aboutme-pjgv.netlify.app
 Repo: https://github.com/TLLRSK/Project-Alpha--ID3
